@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋, I'm Nazarena Wambura
 
-<!--
-**nazarena254/nazarena254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Linkedin](https://www.linkedin.com/in/nazarena-wambura/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> &nbsp;👩🏾‍💻 About Me </h3>
+I am a passionate and proficient full stack web developer with knowledge in user and business  logic interface, as well as strong skills and ability in writing clean and efficient code.
+
+#### 🤔 Facts about me
+- 🌱 I’m currently learning Php and Laravel
+- 📝 I am have pursued Software Development course in Moringa School
+- 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
+- ✨ Proficient in JavaScript
+
+#### ⚡ Languages
+* Javascript
+* Jquery
+* Html, Css and Bootsrap
+* Python
+
+#### ⚡ Tools
+* Git
+* Figma
+
+
