@@ -13,11 +13,11 @@ I am a passionate and proficient full stack web developer with knowledge in user
 - 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
 - ✨ Proficient in JavaScript
 
-#### ⚡ Languages
-* Javascript
-* Jquery
+#### ⚡ Languages, Frameworks & Database
 * Html, Css and Bootsrap
-* Python
+* Javascript, Jquery... AngularJs
+* Python... Flask, Django
+* PostgreSQL
 
 #### ⚡ Tools
 * Git
