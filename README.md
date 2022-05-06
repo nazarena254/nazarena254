@@ -15,7 +15,7 @@ I am a passionate and proficient full stack web developer with knowledge in user
 
 #### ⚡ Languages, Frameworks & Database
 * Html, Css and Bootsrap
-* Javascript, Jquery... AngularJs
+* Javascript, Jquery... Angular
 * Python... Flask, Django
 * PostgreSQL
 
