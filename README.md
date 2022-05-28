@@ -21,6 +21,7 @@ I am a passionate and proficient full stack web developer with knowledge in user
 
 #### ⚡ Tools
 * Git
-* Figma
+* Canva
+* Github project
 
 
