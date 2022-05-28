@@ -11,7 +11,7 @@ I am a passionate and proficient full stack web developer with knowledge in user
 - 🌱 I’m currently learning Php and Laravel
 - 📝 I am have pursued Software Development course in Moringa School
 - 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
-- ✨ Proficient in JavaScript
+- ✨ Proficient in JavaScript,Python
 
 #### ⚡ Languages, Frameworks & Database
 * Html, Css and Bootsrap
