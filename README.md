@@ -11,17 +11,23 @@ I am a passionate and proficient full stack web developer with knowledge in user
 - 🌱 I’m currently learning Php and Laravel
 - 📝 I am have pursued Software Development course in Moringa School
 - 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
-- ✨ Proficient in JavaScript,Python
+- ✨ Proficient in JavaScript,Python.
+- Which came first: the chicken or the egg? 🤣🤣🤣
+
+    print(sorted(["🥚", "🐣", "🐥", "🐔"]))
+
+    >>> ["🐔", "🥚", "🐣", "🐥"];
 
 #### ⚡ Languages, Frameworks & Database
-* Html, Css and Bootsrap
+* Html, Css and Bootstrap
 * Javascript, Typescript, Jquery... Angular
 * Python... Flask, Django
-* PostgreSQL
+* PostgreSQL, SQLite
 
 #### ⚡ Tools
 * Git
 * Canva
+* Cloudinary
 * Github project
 
 
