@@ -8,7 +8,7 @@
 I am a passionate and proficient full stack web developer with knowledge in user and business  logic interface, as well as strong skills and ability in writing clean and efficient code.
 
 ####  🤔 Facts about me
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning c#
 - 📝 I am have pursued Software Development course in Moringa School
 - 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
 - ✨ Proficient in JavaScript,Python.
