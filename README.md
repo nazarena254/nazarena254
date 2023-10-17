@@ -8,10 +8,10 @@
 I am a passionate and proficient full stack web developer with knowledge in user and business  logic interface, as well as strong skills and ability in writing clean and efficient code.
 
 ####  🤔 Facts about me
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# and developing power apps.
 - 📝 I am have pursued Software Development course in Moringa School
 - 📝 I have a Bachelor Degree in Mathematics and Computer Science from Taita Taveta University.
-- ✨ Proficient in JavaScript,Python.
+- ✨ Proficient in JavaScript,Python and CRM.
 - Which came first: the chicken or the egg? 🤣🤣🤣
 
     print(sorted(["🥚", "🐣", "🐥", "🐔"]))
@@ -26,6 +26,7 @@ I am a passionate and proficient full stack web developer with knowledge in user
 
 #### ⚡ Tools
 * Git
+* DevOps
 * Figma
 * Cloudinary
 * Github project
